@@ -56,7 +56,7 @@ Open `index.html` directly in any web browser.
    git add .
    git commit -m "Initial commit for Esther's Bookshop"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/esthers-bookshop.git
+   git remote add origin https://github.com/favedan/esther-bookshop.git
    git push -u origin main
    ```
 2. Import the repository on [Vercel](https://vercel.com) — Vercel will automatically detect `index.html` and deploy your live site!
@@ -65,4 +65,3 @@ Open `index.html` directly in any web browser.
 
 ## 📄 License
 MIT License © 2026 Esther's Bookshop
-
